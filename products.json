@@ -1,0 +1,38 @@
+[
+    {
+        "code": "648531586168",
+        "description": "Sannine Water Bottle 0.5L",
+        "saleprice": "$0.5",
+        "quantity": "27"
+    },
+    {
+        "code": "478755757815",
+        "description": "Sanita Standard Tissue Box",
+        "saleprice": "$1.3",
+        "quantity": "45"
+    },
+    {
+        "code": "08189168465164",
+        "description": "Plastic Fork 100 pieces",
+        "saleprice": "$2",
+        "quantity": "8"
+    },
+    {
+        "code": "84684848468464684",
+        "description": "Plastic Knives 100 pieces",
+        "saleprice": "$2.3",
+        "quantity": "75"
+    },
+    {
+        "code": "956816316887",
+        "description": "Plastic Plates 100 pieces",
+        "saleprice": "$4.2",
+        "quantity": "96"
+    },
+    {
+        "code": "7521545222848",
+        "description": "Napkins 100 pieces",
+        "saleprice": "$0.7",
+        "quantity": "3"
+    }
+]
